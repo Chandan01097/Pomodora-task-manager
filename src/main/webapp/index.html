@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Pomodoro Task Manager</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-image: url('background-image.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container {
+      text-align: center;
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    .btn {
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .btn-primary {
+      background-color: #007bff;
+      color: #fff;
+    }
+
+    .btn-primary:hover {
+      background-color: #0056b3;
+    }
+
+    .btn-secondary {
+      background-color: #6c757d;
+      color: #fff;
+      margin-left: 10px;
+    }
+
+    .btn-secondary:hover {
+      background-color: #495057;
+    }
+  </style>
+</head>
+<body>
+<form action="indexServlet" method="post">
+  <div class="container">
+    <h1>Welcome to Pomodoro Task Manager</h1>
+    <div>
+      <a href="signin.jsp" class="btn btn-primary">Sign In</a>
+      <a href="signup.jsp" class="btn btn-secondary">Sign Up</a>
+    </div>
+  </div>
+  </form>
+ 
+</body>
+</html>
