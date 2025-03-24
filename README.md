@@ -33,14 +33,3 @@ Welcome to my Pomodoro Task Manager – a productivity web app designed to help 
 5. Access it via `http://localhost:8080/pomodoro-task-manager/`
 6. Stay focused and **get stuff done!**
 
-## 🤝 Contributions
-
-Feel free to fork it, star it ⭐, or send a PR if you’ve got spicy improvements or bug fixes.
-
-## ⚠️ Disclaimer
-
-Productivity not guaranteed if you ignore the timer and binge Netflix instead. 😉
-
----
-
-Want me to add an extra section for "Future Improvements" or "Known Issues"?
