@@ -1,6 +1,3 @@
-Alright, let’s make this README section pop! Here's a professional but slightly punchy version for your GitHub repo:
-
----
 
 # 🍅 Pomodoro Task Manager
 
@@ -35,9 +32,6 @@ Welcome to my Pomodoro Task Manager – a productivity web app designed to help 
 4. Deploy the project on **Apache Tomcat**.
 5. Access it via `http://localhost:8080/pomodoro-task-manager/`
 6. Stay focused and **get stuff done!**
-
-## 📸 Screenshots (Optional)
-*(Drop in some clean UI shots here to show off your project flair!)*
 
 ## 🤝 Contributions
 
