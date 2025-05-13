@@ -25,7 +25,7 @@ Welcome to my Pomodoro Task Manager – a productivity web app designed to help 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/pomodoro-task-manager.git
+   git clone https://github.com/Chandan01097/my_project1
    ```
 2. Import into your favorite IDE (Eclipse, IntelliJ, VS Code…you do you).
 3. Configure your **database** connection in `/WEB-INF/dbconfig.properties`.
