@@ -1,7 +1,7 @@
 
 # 🍅 Pomodoro Task Manager
 
-**Built with Java | JSP | Jakarta Servlet | JDBC**
+**Built with Java | JSP | Jakarta Servlet | JDBC*
 
 Welcome to my Pomodoro Task Manager – a productivity web app designed to help you slay procrastination, conquer your tasks, and boost your focus using the famous Pomodoro Technique. 💻⏲️
 
